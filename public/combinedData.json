@@ -1,0 +1,311 @@
+{
+    "data": [
+        {
+            "img": "/Untitled-2.png",
+            "title": "POS",
+            "subtitle": "Simplifying billing,Empowering Businesses",
+            "about": "Enhance your business efficiency with our cutting-edge Point of Sale solutions works on Windows POS, Android POS and IPAD POS.  Our Cloud POS systemempowers your business forgrowth and success"
+        },
+        {
+            "img": "/Untitled-1.png",
+            "title": "Ecommerce and online ordering",
+            "subtitle": "Omnichannel solution,Unified commerce ",
+            "about": "Experience the future of retail with our comprehensive Omnichannel Ecommerce solution. Seamlessly integrate your online and offline sales channels, creating a unified "
+        },
+        {
+            "img": "/Untitled-123.png",
+            "title": "Inventory Management",
+            "subtitle": "Efficient Inventory Control,Amplified Success",
+            "about": "Efficiently manage  your inventory with our advanced Inventory Management system. Gain real-time visibility into stock levels, track product movement, and automate reordering processes for optimal efficiency. Streamline operations, reduce costs, and ensure inventory accuracy with our powerful solution"
+        },
+        {
+            "img": "/Untitled-18.png",
+            "title": "Accounting and Finance",
+            "subtitle": "Simplified Accounting and Finances",
+            "about": "From accurate bookkeeping to robust financial reporting, our platform provides the tools and insights you need to make informed business decisions. Simplify tax compliance, streamline financial processes and ERP Financial reports"
+        },
+        {
+            "img": "/Untitled-19.png",
+            "title": "CRM",
+            "subtitle": "Nurturing Relationships,Maximizing Growth",
+            "about": "relationships with our industry-leading CRM solution. Seamlessly manage and nurture your customer interactions by sending personalised discounts"
+        },
+        {
+            "img": "/Untitled-11.png",
+            "title": "HR & Payroll",
+            "subtitle": "Streamlined HR & Payroll,Empowering People",
+            "about": "relationships with our industry-leading CRM solution. Seamlessly manage and nurture your customer interactions by sending personalised discounts"
+        }
+    ],
+    "customerReviews": [
+        {
+            "logo": "https://posbytz.com/wp-content/uploads/2023/09/maaza-83x88.png",
+            "author": "MazaArabia, KSA",
+            "stars": 5,
+            "content": "We are providing broast chicken food across KSA with about 25 outlets and growing. With PosBytz we have automated the entire operations from purchases, inventory, sales and also enabled our own online ordering system with ease. We will definetly recommend PosBytz to all Restaurant ERP software to all F&B brands expanding as franchise business."
+        },
+        {
+            "logo": "https://posbytz.com/wp-content/uploads/2021/09/posbytz_review_farmarika.webp",
+            "author": "Farmarika",
+            "stars": 4,
+            "content": "This ERP platform is simple and excellent . It is has the omnichannel model to sell the products. I have been using this product for more than 1 year. It is very good to manage the catalogue, items, pricing, taxing , customers, employees etc."
+        },
+        {
+            "logo": "https://posbytz.com/wp-content/uploads/2021/09/tehran_taste_persia-83x88.png",
+            "author": "Tehran-the Taste Of Persia",
+            "stars": 5,
+            "content": "I have been using Posbytz for more than two years, would definitely recommend to all my fellow restaurant owners given the fact it gives complete control over your business. Best would be the branded apps and online ordering platform integrated with POS and inventory."
+        }
+    ],
+    "brands": {
+        "row1": [
+            {
+                "image": "https://posbytz.com/wp-content/uploads/2023/09/maaza.png"
+            },
+            {
+                "image": "https://posbytz.com/wp-content/uploads/2023/09/Kebab-time.png"
+            },
+            {
+                "image": "https://posbytz.com/wp-content/uploads/2023/02/shero-01.png"
+            },
+            {
+                "image": "https://posbytz.com/wp-content/uploads/2023/09/Jazz-cafe.jpg"
+            },
+            {
+                "image": "https://posbytz.com/wp-content/uploads/2023/07/msfood.png"
+            }
+        ],
+        "row2": [
+            {
+                "image": "https://posbytz.com/wp-content/uploads/2023/09/Sams-Pizza.png"
+            },
+            {
+                "image": "https://posbytz.com/wp-content/uploads/2023/09/Besan-Flowers.png"
+            },
+            {
+                "image": "https://posbytz.com/wp-content/uploads/2023/07/elite_fish.png"
+            },
+            {
+                "image": "https://posbytz.com/wp-content/uploads/2023/07/continental_coffee.png"
+            },
+            {
+                "image": "https://posbytz.com/wp-content/uploads/2023/09/Chimney-Cone.png"
+            }
+        ],
+        "row3": [
+            {
+                "image": "https://posbytz.com/wp-content/uploads/2023/09/Dokkan-Kebab.png"
+            },
+            {
+                "image": "https://posbytz.com/wp-content/uploads/2023/09/Smash-me.png"
+            },
+            {
+                "image": "https://posbytz.com/wp-content/uploads/2023/07/lassi_shakes.png"
+            },
+            {
+                "image": "https://posbytz.com/wp-content/uploads/2023/07/tehran_taste_persia.png"
+            },
+            {
+                "image": "https://posbytz.com/wp-content/uploads/2023/09/Teklos.png"
+            }
+        ]
+    },
+    "questions": [
+        {
+            "heading": "What is Retail ERP software?",
+            "answer": "Retail ERP software is a comprehensive solution designed to meet the specific needs of retail businesses. It integrates"
+        },
+        {
+            "heading": "What is Restaurant ERP software?",
+            "answer": "Restaurant ERP software offers managing a multiple chain restaurant business at one place from managing"
+        },
+        {
+            "heading": "Why do Retailers need ERP software?",
+            "answer": "Restaurant ERP software offers managing a multiple chain restaurant business at one place from managing"
+        },
+        {
+            "heading": "What is cloud-based ERP software?",
+            "answer": "Cloud-based ERP software is a type of ERP system that is hosted and accessed over a cloud infrastructure. In this model, the software would be managed and maintained by an ERP provider with a Pay as you Use model on a subscription"
+        },
+        {
+            "heading": "Benefits of using Retail ERP System",
+            "answer": "Retail ERP system offers several benefits for retailers having one system to manage both outlet and online business along with managing all your operations from customer management, sales, Loyalty and accounting under"
+        },
+        {
+            "heading": "Why is PosBytz the best ERP software for Restaurant, and Retail?",
+            "answer": "PosBytz offers a complete suite for Retail and Restaurant businesses to automate their business operations with tools to also increase their business online and offline. PosBytz offers POS , inventory management, Sales Management,CRM , Accounting and HR & Payroll management."
+        },
+        {
+            "heading": "How to download Free Retail ERP Software from PosBytz?",
+            "answer": "You can start using PosBytz for Free with our Free plan "
+        },
+        {
+            "heading": "What is cost of ERP software ?",
+            "answer": "Cost of the PosBytz ERP software starts as low as from $19 Dollars per month. To know more about our plan please"
+        },
+        {
+            "heading": "Does ERP software works for Cafe shop?",
+            "answer": "Yes PosBytz ERP Software for , inventory, employee, and customer management. Consider user-friendliness, mobile accessibility, and integration for optimal cafe shop operations."
+        },
+        {
+            "heading": "Does the ERP Software work for Cloud kitchen business?",
+            "answer": "software with robust order management, inventory tracking, kitchen workflow, and delivery integration. Ensure scalability, customization, and user-friendly cloud-based features for efficiency."
+        },
+        {
+            "heading": "What is Retail Grocery Store ERP Software?",
+            "answer": "ERP software is a comprehensive system that integrates various operations, including inventory management, sales, and customer relationships, to streamline and enhance grocery store management."
+        },
+        {
+            "heading": "What is Best ERP software for Supermarkets?",
+            "answer": "include inventory tracking, point of sale (POS), supplier management, employee scheduling, analytics, accounting and other systems."
+        },
+        {
+            "heading": "Does PosBytz ERP Managment Software supports Boutique stores?",
+            "answer": "with key features include inventory management, point of sale (POS), customer relationship management (CRM), employee scheduling, and reporting for boutique-specific needs."
+        }
+    ],
+    "features": [
+        {
+            "img": "https://posbytz.com/wp-content/uploads/2023/07/itl1.png",
+            "title": "pos",
+            "additionalHeading": "Our POS software offers a wide range of powerful features designed to enhance your retail and restaurant operations.Here are some key highlights:",
+            "points": [
+                "Easy-to-Use Interface",
+                "Device Agnostic can be installed in Windows, Android, and IOS",
+                "Works well for both Restaurant and Retail business",
+                "Multiple channel Sales management",
+                "Integrations with printers, scanner, weighing scales, and label printers"
+            ],
+            "extraImage": "https://posbytz.com/wp-content/uploads/2023/07/Untitled-87.png"
+        },
+        {
+            "img": "https://posbytz.com/wp-content/uploads/2023/07/Untitl.png",
+            "title": "Order management",
+            "additionalHeading": "Our order management system is designed to streamline and optimize the orders from multiple channels outlet or online channels. Here are some key features of our order management system:",
+            "points": [
+                "Manage Sales orders from multiple channels",
+                "Customise multi pricing for same items different channels",
+                "Manage inventory of SKUs for different channels",
+                "Get consolidates reports based on orders from all channels",
+                "Manage Delivery for online orders through our Delivery options"
+            ],
+            "extraImage": "https://posbytz.com/wp-content/uploads/2023/07/Untitled-6-1.png"
+        },
+        {
+            "img": "https://posbytz.com/wp-content/uploads/2023/07/itled-1.png",
+            "title": "Purchase & Inventory management",
+            "additionalHeading": "Our comprehensive purchase and inventory management features empower your retail or restaurant business to efficiently manage and optimize your purchasing processes and inventory levels. Here are the key features that our software offers:",
+            "points": [
+                "Purchase Order Creation:Generate purchase orders directly within the system",
+                "Supplier Management:Manage your vendors track all your purchase and payments against any vendor",
+                "Inventory Tracking:Keep real-time track of your inventory levels, including stock quantities, locations, and availability.",
+                "Reorder Point and Auto-Replenishment:   Set up reorder points for products to automatically trigger purchase orders when inventory reaches a predefined threshold.",
+                "Reporting and Analytics:Generate comprehensive reports and analyse inventory data to gain insights into cost of goods, inventory stock reports etc..,"
+            ],
+            "extraImage": "https://posbytz.com/wp-content/uploads/2023/07/Untitled-9-1.png"
+        },
+        {
+            "img": "https://posbytz.com/wp-content/uploads/2023/07/Untitled-.png",
+            "title": "Ecommerce & online ordering",
+            "additionalHeading": " Our Omnichannel ecommerce and online ordering features provide a seamless and convenient way for your retail or restaurant business to expand its reach and cater to the growing demands of online customers.",
+            "points": [
+                "Online Store Creation:Establish an attractive and user-friendly online store to showcase your products or menu items. Customize the design, layout, and branding to create a unique online shopping experience that reflects your brand identity",
+                "Product Catalog Management:Easily manage your product inventory within the online store. Add new products, update pricing and descriptions, and categorize items for easy navigation.",
+                "Order Placement:Allow customers to place orders directly through your online store along with secure payments options",
+                "Delivery and Pickup Options:Offer customers the choice of delivery or pickup for their online orders. Provide accurate delivery time estimates, define delivery zones, and delivery fees.",
+                "Headless commerce API’s :Build your ecommerce website as per your UI/UX requirement in ease using our on-self Headless commerce API’s",
+                "Reporting and Analytics:Generate comprehensive reports and analyse inventory data to gain insights into cost of goods, inventory stock reports etc..,"
+            ],
+            "extraImage": "https://posbytz.com/wp-content/uploads/2023/07/Untitled-4-1.png"
+        },
+        {
+            "img": "https://posbytz.com/wp-content/uploads/2023/07/1.png",
+            "title": "Accounting and Finance",
+            "additionalHeading": " Our accounting and finance features provide robust tools to manage the financial aspects of your retail or restaurant business from tracking expenses to generating financial reports",
+            "points": [
+                "General Ledger:Maintain a centralized and organized record of your financial transactions, including sales, purchases, expenses, and payments. Our software automatically updates the general ledger, ensuring accurate and up-to-date financial reports",
+                "Accounts Payable and Receivable: Manage your payables and receivables efficiently. Keep track of outstanding invoices, manage vendor payments, and handle customer invoices and payments.",
+                "Financial Reporting:Generate various financial reports, such as income statements, balance sheets, Trial balance, General Ledgers and profit and loss statements.",
+                "Expense Management:Track and categorize expenses, including overhead costs, vendor payments, and employee reimbursements."
+            ],
+            "extraImage": "https://posbytz.com/wp-content/uploads/2023/07/Untitled-3-1.png"
+        },
+        {
+            "img": "https://posbytz.com/wp-content/uploads/2023/07/Un.png",
+            "title": "CRM and Marketing Automation",
+            "additionalHeading": "Our CRM (Customer Relationship Management) and marketing automation features are designed to help you effectively manage customer interactions, nurture relationships, and automate marketing campaigns.",
+            "points": [
+                "Customer Database Management:Maintain a centralized customer database with detailed profiles, including contact information, purchase history, preferences, and communication history.",
+                "Customer Grouping:Group your customer database into segments based on demographics, behaviour, purchase history, or other criteria",
+                "Email Marketing Automation:Automate email campaigns and workflows to engage customers at various stages of their journey. Set up triggered emails for welcome messages, occasional days, abandoned carts, order confirmations, and more.",
+                "Customer Communication: Manage customer communication through various channels, including email, SMS, and social media. relationships. Social Media Integration:Integrate with social media platforms to monitor and engage with customers on social channels."
+            ],
+            "extraImage": "https://posbytz.com/wp-content/uploads/2023/07/Untitled-16-1.png"
+        },
+        {
+            "img": "https://posbytz.com/wp-content/uploads/2023/07/Un.png",
+            "title": "HR and Payroll",
+            "additionalHeading": "Our HR (Human Resources) and Payroll features provide comprehensive tools to streamline your employee management and payroll processes. Here are the key features our software offers:",
+            "points": [
+                "Employee Database:Maintain a centralized employee database with essential information, including personal details, employment history, job roles, and certifications.",
+                "Attendance and Time Tracking:Track employee attendance and working hours efficiently. Our software supports various methods of time tracking, including manual entry, biometric devices, or integrations with time clock systems.",
+                "Leave Management:Streamline the process of managing employee leaves, including vacation days, sick leave, and other types of time off.",
+                "Payroll Processing: Automate your payroll calculations and streamline the payroll process. Our software handles salary calculations, tax deductions, benefits, and other payroll components..",
+                "Tax & Statutory Compliance:Stay compliant with tax regulations by automating tax calculations and deductions"
+            ],
+            "extraImage": "https://posbytz.com/wp-content/uploads/2023/07/369.png"
+        }
+    ],
+    "contact":[
+        {
+            "img":"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"#FFA500\" class=\"w-10 h-10\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M8.625 12a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm0 0H8.25m4.125 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm0 0H12m4.125 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm0 0h-.375M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z\" /></svg>",
+            "title":"Become a Partner",
+            "about":"We’d love to talk about how we can work together."
+        },
+        {
+             "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"#FFA500\" class=\"size-6\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M21.75 6.75v10.5a2.25 2.25 0 0 1-2.25 2.25h-15a2.25 2.25 0 0 1-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0 0 19.5 4.5h-15a2.25 2.25 0 0 0-2.25 2.25m19.5 0v.243a2.25 2.25 0 0 1-1.07 1.916l-7.5 4.615a2.25 2.25 0 0 1-2.36 0L3.32 8.91a2.25 2.25 0 0 1-1.07-1.916V6.75\" /></svg>",
+            "title":"General Inquiry",
+            "about":"For general queries, company info and career opportunities."
+        },
+        {
+            "img":"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"#FFA500\" class=\"w-10 h-10\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M8.625 12a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm0 0H8.25m4.125 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm0 0H12m4.125 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm0 0h-.375M21 12c0 4.556-4.03 8.25-9 8.25a9.764 9.764 0 0 1-2.555-.337A5.972 5.972 0 0 1 5.41 20.97a5.969 5.969 0 0 1-.474-.065 4.48 4.48 0 0 0 .978-2.025c.09-.457-.133-.901-.467-1.226C3.93 16.178 3 14.189 3 12c0-4.556 4.03-8.25 9-8.25s9 3.694 9 8.25Z\" /></svg>",
+            "title":"Contact Support",
+            "about":"Our support team is always ready to provide any assistance you may need."
+        }
+    ]
+    ,"Helpddata": [
+    {
+      "img": "<svg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke-width='1.5' stroke='currentColor' class='size-6'><path stroke-linecap='round' stroke-linejoin='round' d='m15.75 10.5 4.72-4.72a.75.75 0 0 1 1.28.53v11.38a.75.75 0 0 1-1.28.53l-4.72-4.72M4.5 18.75h9a2.25 2.25 0 0 0 2.25-2.25v-9a2.25 2.25 0 0 0-2.25-2.25h-9A2.25 2.25 0 0 0 2.25 7.5v9a2.25 2.25 0 0 0 2.25 2.25Z' /></svg>",
+      "title": "Watch Videos",
+      "about": "Watch step-by-step instructions with short tutorials.",
+      "buttonText": "Start watching"
+    },
+    {
+      "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"#FFA500\" class=\"size-6\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z\" /></svg>",
+      "title": "Search the Help Center",
+      "about": "Access guides, support documents and training videos.",
+      "buttonText": "Go to help center"
+    }
+  ]
+  ,"Kindofhelp": [
+    {
+      "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"#FFA500\" class=\"w-10 h-10\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M8.625 9.75a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm0 0H8.25m4.125 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm0 0H12m4.125 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm0 0h-.375m-13.5 3.01c0 1.6 1.123 2.994 2.707 3.227 1.087.16 2.185.283 3.293.369V21l4.184-4.183a1.14 1.14 0 0 1 .778-.332 48.294 48.294 0 0 0 5.83-.498c1.585-.233 2.708-1.626 2.708-3.228V6.741c0-1.602-1.123-2.995-2.707-3.228A48.394 48.394 0 0 0 12 3c-2.392 0-4.744.175-7.043.513C3.373 3.746 2.25 5.14 2.25 6.741v6.018Z\" /></svg>",
+      "title": "Live Chat",
+      "about": "Chat directly with PosBytz support",
+      "buttonText": "Chat with us"
+    },
+    {
+      "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"#FFA500\" class=\"w-10 h-10\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M2.25 6.75c0 8.284 6.716 15 15 15h2.25a2.25 2.25 0 0 0 2.25-2.25v-1.372c0-.516-.351-.966-.852-1.091l-4.423-1.106c-.44-.11-.902.055-1.173.417l-.97 1.293c-.282.376-.769.542-1.21.38a12.035 12.035 0 0 1-7.143-7.143c-.162-.441.004-.928.38-1.21l1.293-.97c.363-.271.527-.734.417-1.173L6.963 3.102a1.125 1.125 0 0 0-1.091-.852H4.5A2.25 2.25 0 0 0 2.25 4.5v2.25Z\" /></svg>",
+      "title": "Phone",
+      "about": "Talk with us over the phone",
+      "buttonText": "Call us"
+    },
+    {
+        "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"#FFA500\" class=\"size-6\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M21.75 6.75v10.5a2.25 2.25 0 0 1-2.25 2.25h-15a2.25 2.25 0 0 1-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0 0 19.5 4.5h-15a2.25 2.25 0 0 0-2.25 2.25m19.5 0v.243a2.25 2.25 0 0 1-1.07 1.916l-7.5 4.615a2.25 2.25 0 0 1-2.36 0L3.32 8.91a2.25 2.25 0 0 1-1.07-1.916V6.75\" /></svg>",
+        "title": "Email support",
+        "about": "Reach us by Email",
+        "buttonText": "Email us"
+      }
+  ]
+    
+}
