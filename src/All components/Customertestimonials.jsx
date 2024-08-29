@@ -5,16 +5,8 @@ import Slider from 'react-slick';
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
 
-const Customertestimonials = () => {
-    const [reviews, setReviews] = useState([]);
-
-    useEffect(() => {
-        fetch('/combinedData.json') // Fetch from combinedData.json
-            .then((response) => response.json())
-            .then((data) => setReviews(data.customerReviews)) // Access customerReviews from the fetched data
-            .catch((error) => console.error('Error fetching reviews:', error));
-    }, []);
-
+const Customertestimonials = ({reviews}) => {
+   
     const PrevArrow = ({ onClick }) => (
         <button
             className="absolute top-1/2 left-[-30px] transform -translate-y-1/2 bg-white shadow-lg border rounded-full p-2"

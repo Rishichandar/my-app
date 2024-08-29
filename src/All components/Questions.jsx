@@ -2,13 +2,13 @@
 
 import React, { useState, useEffect } from 'react';
 
-const Questions = () => {
-    const [faq, setFaq] = useState([]);
+const Questions = ({faq1}) => {
+    const [faq, setFaq] = useState([faq1]);
 
     useEffect(() => {
         fetch('/combineddata.json') // Fetch combined data
             .then((response) => response.json())
-            .then((data) => setFaq(data.questions)) // Extract questions
+            .then((data) => setFaq(data.home.questions)) // Extract questions
             .catch((error) => console.error('Error fetching questions:', error));
     }, []);
 

@@ -1,27 +1,10 @@
 
-import { useState, useEffect } from "react";
 import React from 'react';
-import axios from 'axios';
 
-export default function Gridcontainer() {
 
-    //for data generation
-    const [data, setData] = useState([]);
-    console.log("data", data);
+export default function Gridcontainer({data}) {
 
-    useEffect(() => {
-        // Fetch data from combinedData.json
-        const fetchData = async () => {
-            try {
-                const response = await axios.get('/combinedData.json'); // Make sure combinedData.json is served correctly
-                setData(response.data.data);
-            } catch (error) {
-                console.error("Error fetching data: ", error);
-            }
-        };
 
-        fetchData();
-    }, []);
     return (
         <>
             <section className="flex flex-col items-center justify-center min-h-screen mt-[-40px] text-center">

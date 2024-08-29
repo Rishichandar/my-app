@@ -1,26 +1,11 @@
 
+
+
 import React, { useRef, useState, useEffect } from 'react';
 
-// brand logos
-import brandlogo1 from '../brand image/brandlogo1.png';
-import brandlogo2 from '../brand image/brandlogo2.png';
-import brandlogo3 from '../brand image/brandlogo3.png';
-import brandlogo4 from '../brand image/brandlogo4.png';
-import brandlogo5 from '../brand image/brandlogo5.png';
-import brandlogo6 from '../brand image/brandlogo6.png';
-import brandlogo7 from '../brand image/brandlogo7.png';
-import brandlogo8 from '../brand image/brandlogo8.png';
-import brandlogo9 from '../brand image/brandlogo9.png';
-import brandlogo10 from '../brand image/brandlogo10.png';
-import brandlogo11 from '../brand image/brandlogo11.png';
-import brandlogo12 from '../brand image/brandlogo12.png';
-import brandlogo13 from '../brand image/brandlogo13.png';
-import brandlogo14 from '../brand image/brandlogo14.png';
-import brandlogo15 from '../brand image/brandlogo15.png';
-import brandlogo16 from '../brand image/brandlogo16.png';
-import brandlogo17 from '../brand image/brandlogo17.png';
-import brandlogo18 from '../brand image/brandlogo18.png';
-import brandlogo19 from '../brand image/brandlogo19.png';
+// Remove all the import statements for images
+// import brandlogo1 from 'public/brand image/brandlogo1.png';
+// ...
 
 export default function Logocontainer() {
     const [isVisible, setIsVisible] = useState(false);
@@ -50,6 +35,29 @@ export default function Logocontainer() {
         };
     }, []);
 
+    // Array of image paths
+    const brandLogos = [
+        '/brand image/brandlogo1.png',
+        '/brand image/brandlogo2.png',
+        '/brand image/brandlogo3.png',
+        '/brand image/brandlogo4.png',
+        '/brand image/brandlogo5.png',
+        '/brand image/brandlogo6.png',
+        '/brand image/brandlogo7.png',
+        '/brand image/brandlogo8.png',
+        '/brand image/brandlogo9.png',
+        '/brand image/brandlogo10.png',
+        '/brand image/brandlogo11.png',
+        '/brand image/brandlogo12.png',
+        '/brand image/brandlogo13.png',
+        '/brand image/brandlogo14.png',
+        '/brand image/brandlogo15.png',
+        '/brand image/brandlogo16.png',
+        '/brand image/brandlogo17.png',
+        '/brand image/brandlogo18.png',
+        '/brand image/brandlogo19.png'
+    ];
+
     return (
         <>
             <section>
@@ -76,7 +84,7 @@ export default function Logocontainer() {
                     ref={containerRef}
                 >
                     <ul className={`grid grid-cols-7 gap-logo-gap ${isVisible ? 'animate-fade-in' : ''}`}>
-                        {[brandlogo1, brandlogo2, brandlogo3, brandlogo4, brandlogo5, brandlogo6, brandlogo7, brandlogo8, brandlogo9, brandlogo10, brandlogo11, brandlogo12, brandlogo13, brandlogo14, brandlogo15, brandlogo16, brandlogo17, brandlogo18, brandlogo19].map((logo, index) => (
+                        {brandLogos.map((logo, index) => (
                             <li
                                 key={index}
                                 className={`animate-rotate-left delay-${(index + 1) * 1000}`}

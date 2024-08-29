@@ -4,18 +4,11 @@
 import React, { useEffect, useState } from 'react';
 
 
-const GridComponent = () => {
-    const [gridData, setGridData] = useState([]);
-
-    useEffect(() => {
-        fetch('/combinedData.json') // Fetch from combinedData.json
-            .then((response) => response.json())
-            .then((data) => setGridData(data.contact)) // Access customerReviews from the fetched data
-            .catch((error) => console.error('Error fetching griddata', error));
-    }, []);
+const GridComponent = ({gridData}) => {
+   
 
     return (
-        <section className="text-center mt-[80px]">
+        <section className="text-center mb-[50px]">
             <div className="mb-8">
                 <h2 className="text-2xl font-bold mb-4">Our Services</h2>
                 <p className="text-lg text-gray-600">

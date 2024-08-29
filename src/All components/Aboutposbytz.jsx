@@ -31,7 +31,7 @@ const aboutContent = [
 const Aboutposbytz = () => {
     return (
         <>
-            <div className="grid grid-cols-2 gap-4 mt-[120px]">
+            <div className="grid grid-cols-2 gap-4 mt-[70px]">
                 {/* About Container */}
                 <div id="about" className="flex flex-col justify-center ml-[130px]">
                     {aboutContent.map((item, index) => {

@@ -1,6 +1,6 @@
 
+
 import React from 'react';
-import img from '../All Pages/Assets/images.png';
 
 export default function Toptitle() {
     return (
@@ -27,7 +27,7 @@ export default function Toptitle() {
                     Get Started
                 </button>
                 <section className="flex justify-center pt-[20px]">
-                    <img src={img} alt="Your Image" className="max-w-full h-auto" />
+                    <img src="/Assets/images.png" alt="Your Image" className="max-w-full h-auto" />
                 </section>
             </section>
         </>

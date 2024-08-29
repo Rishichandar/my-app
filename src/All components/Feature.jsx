@@ -1,16 +1,10 @@
 
 import React, { useState, useEffect } from 'react';
 
-export default function Feature() {
-    const [features, setFeatures] = useState([]);
+export default function Feature({ features }) {
+   
     const [selectedItem, setSelectedItem] = useState(1);
-
-    useEffect(() => {
-        fetch('/combineddata.json') // Fetch combined data
-            .then((response) => response.json())
-            .then((data) => setFeatures(data.features))
-            .catch((error) => console.error('Error fetching questions:', error));
-    }, []);
+    
 
     const handleItemClick = (index) => {
         setSelectedItem(index === selectedItem ? null : index);

@@ -2,8 +2,8 @@ import Home from "../All Pages/Home/Home";
 import About from "../All Pages/About/About";
 import Contact from "../All Pages/Contact/Contact";
 import Support from "../All Pages/Support/Support";
-import Login from "../All Pages/Login/Login";
-import Register from "../All Pages/Register/Register";
+import Career from "../All Pages/Career.jsx/Career";
+import AuthPage from "../All Pages/Auth/Auth";
 
 const routes=[
     {
@@ -25,11 +25,15 @@ const routes=[
     }
     ,{
         path:'/Login',
-        element:<Login/>
+        element:<AuthPage/>
     }
     ,{
         path:'/Register',
-        element:<Register/>
+        element:<AuthPage/>
+    },
+    {
+        path:'/Career',
+        element:<Career/>
     }
     //here we add multiple components and their corresponding path 
 ];

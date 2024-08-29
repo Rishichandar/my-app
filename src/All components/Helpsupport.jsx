@@ -1,12 +1,6 @@
 import React, { useEffect, useState } from 'react';
-const Helpsupport = () => {
-    const [helpGridData, setHelpGridData] = useState([]);
-    useEffect(() => {
-        fetch('/combinedData.json') // Fetch from combinedData.json
-            .then((response) => response.json())
-            .then((data) => setHelpGridData(data.Helpddata)) // Access customerReviews from the fetched data
-            .catch((error) => console.error('Error fetching Helpgriddata', error));
-    }, []);
+const Helpsupport = ({helpGridData}) => {
+    
     return (
         <>
             <section>

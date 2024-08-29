@@ -1,13 +1,7 @@
 import React, { useEffect, useState } from 'react';
-const Kindhelp=()=>{
+const Kindhelp=({helpKindData})=>{
 
-    const [helpKindData, sethelpKindData] = useState([]);
-    useEffect(() => {
-        fetch('/combinedData.json') // Fetch from combinedData.json
-            .then((response) => response.json())
-            .then((data) => sethelpKindData(data.Kindofhelp)) // Access customerReviews from the fetched data
-            .catch((error) => console.error('Error fetching Helpgriddata', error));
-    }, []);
+    
 
     return(
         <>

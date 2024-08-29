@@ -1,12 +1,13 @@
-import Layout from "../Layout/Layout";
-import Contactbluediv from "../../All components/Contactbluediv";
+import Layout from "../../Layout/Layout";
 import Contactcenterdiv from "../../All components/Contactcenterdiv";
+import Aboutbluediv from "../../All components/topcont";
 
 const Contact=()=>{
     return(
         <>
         <Layout>
-            <Contactbluediv/>
+            {/* <Contacttopcont/> */}
+            <Aboutbluediv title="Contact Us" breadcrumbs={['Home', 'Contact Us']} />
             <Contactcenterdiv/>
 
         </Layout>
